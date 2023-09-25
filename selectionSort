@@ -14,4 +14,4 @@ function sel(arr){
 
 let arr = [100,44,77,10,1100,44,77,10,1]
 let res = sel(arr)
-console.log(res)
+console.log(arr)
